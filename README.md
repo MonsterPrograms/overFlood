@@ -1,5 +1,5 @@
 # overFlood
-The full source code for the final version I had released of overFlood. 
+The full source code for the final version I had released of overFlood. Further updates will not be provided for this project even if features stop working in the future.
 
 This is a powerful Twitch AIO tool which I had been selling since March 2020 and stopped selling in March 2021. There is a lot of leaked versions of this tool online and there are multiple versions of it still being sold. Without me making this tool, the Twitch AIO tool market would have been nowhere near as populated.
 
